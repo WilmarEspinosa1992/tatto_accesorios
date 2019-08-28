@@ -4391,7 +4391,8 @@ img.mfp-img {
 
 /*-- Header Category --*/
 .header-category {
-  background-color: #000000;
+  border-radius: 3px;
+  background-color: #6d6969;
   float: left;
   width: 100%;
   position: relative; }
